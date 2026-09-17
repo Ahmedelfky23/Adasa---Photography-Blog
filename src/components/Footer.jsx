@@ -52,7 +52,7 @@ export default function Footer() {
             <h6>استكشف</h6>
             <Link to="/">الرئيسية</Link>
             <Link to="/blogs">المدونة</Link>
-            <a href="#">من نحن</a>
+            <Link to="/about">من نحن</Link>
           </div>
 
           <div className="col-6 col-lg-3">

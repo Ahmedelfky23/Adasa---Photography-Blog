@@ -58,9 +58,9 @@ export default function Navbar() {
               </NavLink>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link">
+              <NavLink to="/about" className="nav-link">
                 من نحن
-              </a>
+              </NavLink>
             </li>
           </ul>
 
