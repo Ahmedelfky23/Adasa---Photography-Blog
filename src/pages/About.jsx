@@ -198,7 +198,7 @@ export default function About() {
                 </span>
 
                 <small
-                  className="text-muted mt-2 d-block"
+                  className="text-white mt-2 d-block"
                   style={{ fontSize: "0.8rem" }}
                 >
                   {author.articlesCount}{" "}
