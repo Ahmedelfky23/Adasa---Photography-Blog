@@ -1,4 +1,4 @@
-const DATA_URL = "/data/blogs.json";
+const DATA_URL = `${import.meta.env.BASE_URL}data/blogs.json`;
 let cacheData = null;
 
 async function loadData() {
