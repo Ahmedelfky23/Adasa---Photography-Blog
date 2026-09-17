@@ -106,7 +106,7 @@ export default function About() {
             <span style={{ color: "var(--adasa-orange)" }}>|</span> قيمنا{" "}
             <span style={{ color: "var(--adasa-orange)" }}>|</span>
           </h2>
-          <p className="text-muted">المبادئ التي توجه كل ما نفعله ونشاركه</p>
+          <p className="text-white">المبادئ التي توجه كل ما نفعله ونشاركه</p>
         </div>
 
         <div className="row g-4">
@@ -126,7 +126,7 @@ export default function About() {
                 </div>
                 <h5 className="fw-bold mb-2 text-white">{v.title}</h5>
                 <p
-                  className="mb-0 text-muted"
+                  className="mb-0 text-white"
                   style={{ fontSize: "0.9rem", lineHeight: 1.6 }}
                 >
                   {v.desc}
@@ -144,7 +144,7 @@ export default function About() {
             فريقنا
           </span>
           <h2 className="fw-bold mt-2 mb-2">تعرف على كتابنا</h2>
-          <p className="text-muted">
+          <p className="text-white">
             نخبة من المصورين والكتاب ذوي الخبرة يشاركون شغفهم ومعرفتهم
           </p>
         </div>
