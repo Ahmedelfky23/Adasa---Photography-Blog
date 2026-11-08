@@ -14,7 +14,7 @@
 ## 🌐 Live Demo
 
 Check out the live deployment on GitHub Pages:
-> **[Adasa Live Demo](https://your-username.github.io/Adasa---Photography-Blog/)**  
+> **[Adasa Live Demo](https://ahmedelfky23.github.io/Adasa---Photography-Blog/)**  
 > *(Replace `your-username` with your GitHub username)*
 
 ---
